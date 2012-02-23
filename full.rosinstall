@@ -1,0 +1,60 @@
+# Auburn Automow Related Repositories
+- git:
+    uri: 'git@github.com:Auburn-Automow/au_automow_drivers.git'
+    local-name: au_automow_drivers
+    version: '2012'
+    meta:
+        repo-name: au-automow
+- git:
+    uri: 'git@github.com:Auburn-Automow/au_automow_common.git'
+    local-name: au_automow_common
+    version: '2012'
+    meta:
+        repo-name: au-automow
+- git:
+    uri: 'git@github.com:Auburn-Automow/au_automow_simulation.git'
+    local-name: au_automow_simulation
+    version: 'master'
+    meta:
+        repo-name: au-automow
+- git:
+    uri: 'git@github.com:Auburn-Automow/ax2550.git'
+    local-name: 'ax2550'
+    version: 'master'
+    meta:
+        repo-name: au-automow
+- git:
+    uri: 'git@github.com:Auburn-Automow/camera_drivers.git'
+    local-name: 'camera_drivers'
+    version: 'master'
+- git:
+    uri: 'git@github.com:Auburn-Automow/rtklib_ros.git'
+    local-name: 'rtklib_ros'
+    version: 'master'
+
+# Additional Hardware Support
+- git:
+    uri: 'https://github.com/wjwwood/serial.git'
+    local-name: serial
+    version: 'boostless'
+- git:
+    uri: 'https://github.com/wjwwood/serial_utils.git'
+    local-name: serial_utils
+    version: 'master'
+
+
+
+
+# ROSOSC Related Repositories
+- git:
+    uri: 'git@github.com:Auburn-Automow/rososc.git'
+    local-name: rososc
+    version: '0.2'
+- git:
+    uri: 'git@github.com:Auburn-Automow/rososc_tutorials.git'
+    local-name: rososc_tutorials
+    version: '0.2'
+- git:
+    uri: 'git@github.com:Auburn-Automow/rososc_utilities.git'
+    local-name: rososc_utilities
+    version: master
