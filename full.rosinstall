@@ -2,13 +2,13 @@
 - git:
     uri: 'https://github.com/Auburn-Automow/au_automow_drivers.git'
     local-name: au_automow_drivers
-    version: '2012'
+    version: 'master'
     meta:
         repo-name: au-automow
 - git:
     uri: 'https://github.com/Auburn-Automow/au_automow_common.git'
     local-name: au_automow_common
-    version: '2012'
+    version: 'master'
     meta:
         repo-name: au-automow
 - git:
@@ -20,7 +20,7 @@
 - git:
     uri: 'https://github.com/Auburn-Automow/au_automow_apps.git'
     local-name: au_automow_apps
-    version: master
+    version: 'master'
     meta:
         repo-name: au-automow
 - git:
@@ -49,8 +49,6 @@
     version: 'master'
 
 
-
-
 # ROSOSC Related Repositories
 - git:
     uri: 'https://github.com/Auburn-Automow/rososc.git'
@@ -63,4 +61,4 @@
 - git:
     uri: 'https://github.com/Auburn-Automow/rososc_utilities.git'
     local-name: rososc_utilities
-    version: master
+    version: 'master'
