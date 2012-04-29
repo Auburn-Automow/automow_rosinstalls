@@ -48,6 +48,11 @@
     local-name: serial_utils
     version: 'master'
 
+- git:
+    uri: 'https://github.com/mjcarroll/mcarroll-ros-pkg.git'
+    local-name: mcarroll-ros-pkg
+    version: 'master'
+
 
 # ROSOSC Related Repositories
 - git:
